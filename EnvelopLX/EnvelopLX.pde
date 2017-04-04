@@ -16,7 +16,7 @@ enum Environment {
 }
 
 // Change this line if you want a different configuration!
-Environment environment = Environment.MIDWAY;  
+Environment environment = Environment.SATELLITE;  
 LXStudio lx;
 Envelop envelop;
 EnvelopModel venue;
